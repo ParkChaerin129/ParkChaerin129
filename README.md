@@ -17,7 +17,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=50 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height=50 />
 </div>
-<a href="https://drive.google.com/file/d/1yhsQ1YAENy5GozzFSrBMZL37IT3BNDVU/view?usp=sharing">포트폴리오 보러가기 link</a>
+<a href="https://parkchaerin129.github.io/">포트폴리오 보러가기 link</a>
 
 ### 📁Project
 인천광역시 교통 약자
